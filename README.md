@@ -27,8 +27,8 @@
 
 <p align="center">
 <a href="https://github.com/mariandc18">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariandc18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariandc18&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariandc18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariandc18&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight"/>
 </a>
 </p>
 
@@ -41,7 +41,7 @@
   -->
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariandc18&theme=algolia" width="98%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariandc18&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
 ### Contributions on GitHub
